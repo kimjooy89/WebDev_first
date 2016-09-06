@@ -1,0 +1,7 @@
+package model1;
+
+public class mainboardDAO {
+	
+	private String name;
+
+}
